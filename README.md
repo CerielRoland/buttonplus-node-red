@@ -8,7 +8,7 @@ Reason for the entities is to use them in multiple places without the need to du
 As you can see I don't like to use function nodes unless it can not be done without them.
 The main flows purpose is to create the menus and entities and keep everything updated.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshot/example.jpg?raw=true)
+![preview](https://github.com/CerielRoland/buttonplus-node-red/blob/main/example.png)
 
 ## main_flow.json ##
 Main flow containts 2 main flows:
@@ -26,6 +26,6 @@ Contains an example how I control a light and update its status to the device en
 
 ## Buttonplus config ##
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshots/display_menu.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshots/buttonplus_button_config.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshots/example_mqtt.jpg?raw=true)
+![display menu](https://github.com/CerielRoland/buttonplus-node-red/blob/main/display_menu.png)
+![buttonplus config](https://github.com/CerielRoland/buttonplus-node-red/blob/main/buttonplus_button_config.png)
+![example mqtt](https://github.com/CerielRoland/buttonplus-node-red/blob/main/example_mqtt.png)
